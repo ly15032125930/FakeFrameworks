@@ -1,0 +1,6 @@
+framework module MessageThrottle {
+  umbrella header "MessageThrottle.h"
+
+  export *
+  module * { export * }
+}
